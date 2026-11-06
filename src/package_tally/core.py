@@ -83,15 +83,20 @@ class Client:
         self.opener = opener or urllib.request.urlopen
         self.sleep = sleep
 
-    def fetch(self, url: str) -> dict:
+    def fetch(
+        self, url: str, *, data: bytes | None = None, content_type: str | None = None
+    ) -> dict:
         request = urllib.request.Request(
             url,
+            data=data,
             headers={
                 "User-Agent": (
                     "package-tally/0.1 (https://github.com/gojiplus/package-tally)"
                 )
             },
         )
+        if content_type:
+            request.add_header("Content-Type", content_type)
         for attempt in range(3):
             try:
                 with self.opener(request, timeout=45) as response:
@@ -105,7 +110,10 @@ class Client:
                         "cache_age": response.headers.get("Age"),
                         "body": body.decode("utf-8"),
                     }
-                filename = hashlib.sha256(url.encode()).hexdigest() + ".json"
+                    if data is not None:
+                        record["request_body"] = data.decode("utf-8")
+                filename = hashlib.sha256(url.encode() + (data or b"")).hexdigest()
+                filename += ".json"
                 (self.directory / filename).write_text(
                     json.dumps(record, indent=2) + "\n", encoding="utf-8"
                 )

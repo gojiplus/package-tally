@@ -1,4 +1,4 @@
-# Registry-verified inventory; see inventory/README.md.
+# Curated inventory plus verified discoveries; see inventory/README.md.
 
 [[packages]]
 ecosystem = "cran"

@@ -66,3 +66,15 @@ Add a `[[packages]]` entry after verifying the registry name and authorship, wit
 an `evidence` URL and a note for archived or renamed distributions. Normalize PyPI
 aliases into one entry; preserve CRAN capitalization. Re-run `package-tally` to
 create a fresh snapshot. Existing reports keep their original manifest and counts.
+
+## Automatic additions after the initial audit
+
+Weekly refreshes use `discovery.toml` and keep the original curated entries.
+New entries record discovery evidence in `packages.toml`; each new snapshot's
+`summary.json` records added and rejected candidates. The initial evidence files
+above remain a record of the November 6 audit, not a manually synchronized index.
+See the [refresh documentation](../README.md#weekly-updates-and-package-discovery).
+
+API references: [PyPI ownership lookup](https://dev.pypi.org/api-reference/xml-rpc/#user-packages-user),
+[CRAN advanced search](https://r-hub.github.io/pkgsearch/reference/advanced_search.html),
+and the [official CRAN search client](https://github.com/r-hub/pkgsearch/blob/main/R/api.R).

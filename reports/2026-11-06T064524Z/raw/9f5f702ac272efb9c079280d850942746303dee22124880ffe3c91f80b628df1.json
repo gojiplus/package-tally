@@ -1,0 +1,9 @@
+{
+  "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/guess",
+  "fetched_at": "2026-11-06T06:45:38.394569+00:00",
+  "sha256": "ac935574ee917000a6f5c8880405ae5d74b8d347c197e2d4e7813c14885d4572",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Fri, 06 Nov 2026 06:45:38 GMT",
+  "cache_age": null,
+  "body": "[{\"start\":\"2012-10-01\",\"end\":\"2026-11-04\",\"downloads\":33897,\"package\":\"guess\"}]"
+}

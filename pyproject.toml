@@ -29,6 +29,7 @@ Issues = "https://github.com/gojiplus/package-tally/issues"
 
 [project.scripts]
 package-tally = "package_tally.cli:main"
+package-tally-refresh = "package_tally.refresh:main"
 
 [project.optional-dependencies]
 dev = ["pytest>=8", "black>=26", "isort>=7", "flake8>=7", "build>=1"]

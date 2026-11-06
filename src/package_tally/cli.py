@@ -49,6 +49,19 @@ def markdown(report: dict) -> str:
             f"{row['coverage_end'] or 'not supplied'} |"
         )
     errors = [row for row in rows if row["status"] != "ok"]
+    discovery = report.get("discovery")
+    if discovery:
+        lines += ["", "## Package discovery", ""]
+        if discovery["complete"]:
+            lines.append(f"Verified {len(discovery['added'])} new package names.")
+            for package in discovery["added"]:
+                lines.append(f"- {package['ecosystem']}/{package['name']}")
+        else:
+            lines.append(
+                "Discovery failed; this snapshot covers the previous inventory. "
+                "The public badge and latest report were not updated."
+            )
+            lines += ["", discovery["error"]]
     if errors:
         lines += ["", "## Unavailable counts", ""]
         for row in errors:

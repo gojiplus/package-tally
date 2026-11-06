@@ -1,0 +1,9 @@
+{
+  "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/tubern",
+  "fetched_at": "2026-11-06T06:45:41.078945+00:00",
+  "sha256": "4d5dc2fb8e367a34db69b1fdda74db9fec62b076991ad838f3384248875d589b",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Fri, 06 Nov 2026 06:45:41 GMT",
+  "cache_age": null,
+  "body": "[{\"start\":\"2012-10-01\",\"end\":\"2026-11-04\",\"downloads\":28785,\"package\":\"tubern\"}]"
+}
