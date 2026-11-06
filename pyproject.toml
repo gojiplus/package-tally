@@ -1,0 +1,43 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "package-tally"
+version = "0.1.0"
+description = "Tally Python and R package downloads from Pepy and CRAN logs"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{name = "Gaurav Sood", email = "contact@gsood.com"}]
+keywords = ["pypi", "cran", "downloads", "statistics"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: Console",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/gojiplus/package-tally"
+Repository = "https://github.com/gojiplus/package-tally"
+Issues = "https://github.com/gojiplus/package-tally/issues"
+
+[project.scripts]
+package-tally = "package_tally.cli:main"
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "black>=26", "isort>=7", "flake8>=7", "build>=1"]
+
+[tool.black]
+line-length = 88
+
+[tool.isort]
+profile = "black"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "guess",
+    "archived": false,
+    "evidence_version": "0.7.0",
+    "author": "Gaurav Sood [aut, cre],\nKen Cor [aut]",
+    "maintainer": "Gaurav Sood <gsood07@gmail.com>",
+    "url": "https://github.com/finite-sample/guess,\nhttps://finite-sample.github.io/guess/",
+    "first_release": "2016-02-08T23:44:06+00:00"
+  },
+  {
+    "name": "rdomains",
+    "archived": false,
+    "evidence_version": "0.6.1",
+    "author": "Gaurav Sood [aut, cre]",
+    "maintainer": "Gaurav Sood <gsood07@gmail.com>",
+    "url": "https://themains.github.io/rdomains/,\nhttps://github.com/themains/rdomains",
+    "first_release": "2016-06-16T12:37:26+00:00"
+  },
+  {
+    "name": "tuber",
+    "archived": false,
+    "evidence_version": "3.0.0",
+    "author": "Gaurav Sood [aut, cre, cph],\nKate Lyons [ctb],\nJohn Muschelli [ctb]",
+    "maintainer": "Gaurav Sood <gsood07@gmail.com>",
+    "url": "https://gojiplus.github.io/tuber/,\nhttps://github.com/gojiplus/tuber",
+    "first_release": "2015-11-16T08:27:38+00:00"
+  },
+  {
+    "name": "tubern",
+    "archived": false,
+    "evidence_version": "0.5.1",
+    "author": "Gaurav Sood [aut, cre]",
+    "maintainer": "Gaurav Sood <gsood07@gmail.com>",
+    "url": "https://github.com/gojiplus/tubern",
+    "first_release": "2017-04-13T21:44:46+00:00"
+  },
+  {
+    "name": "virustotal",
+    "archived": false,
+    "evidence_version": "0.7.0",
+    "author": "Gaurav Sood [aut, cre]",
+    "maintainer": "Gaurav Sood <gsood07@gmail.com>",
+    "url": "https://github.com/themains/virustotal,\nhttps://themains.github.io/virustotal/",
+    "first_release": "2016-06-02T15:11:48+00:00"
+  }
+]

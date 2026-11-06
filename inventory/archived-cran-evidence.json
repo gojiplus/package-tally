@@ -1,0 +1,20 @@
+[
+  {
+    "name": "abbyyR",
+    "cran_url": "https://cran.r-project.org/web/packages/abbyyR/index.html",
+    "archived": true,
+    "page": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<title>CRAN: Package abbyyR</title>\n<link rel=\"canonical\" href=\"https://CRAN.R-project.org/package=abbyyR\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../CRAN_web.css\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\">\n</head>\n<body>\n<div class=\"container\">\n<p>Package &lsquo;abbyyR&rsquo; was removed from the CRAN repository.</p>\n<p>\nFormerly available versions can be obtained from the\n<a href=\"https://CRAN.R-project.org/src/contrib/Archive/abbyyR\"><span class=\"CRAN\">archive</span></a>.\n</p>\n<p>\nArchived on 2023-11-03 at the maintainer's request.\n</p>\n<p>A summary of the most recent check results can be obtained from the <a href=\"https://cran-archive.R-project.org/web/checks/2023/2023-11-03_check_results_abbyyR.html\"><span class=\"CRAN\">check results archive</span></a>.</p>\n<p>Please use the canonical form\n<a href=\"https://CRAN.R-project.org/package=abbyyR\"><span class=\"CRAN\"><samp>https://CRAN.R-project.org/package=abbyyR</samp></span></a>\nto link to this page.</p>\n</div>\n</body>\n</html>\n"
+  },
+  {
+    "name": "captr",
+    "cran_url": "https://cran.r-project.org/web/packages/captr/index.html",
+    "archived": true,
+    "page": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<title>CRAN: Package captr</title>\n<link rel=\"canonical\" href=\"https://CRAN.R-project.org/package=captr\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../CRAN_web.css\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\">\n</head>\n<body>\n<div class=\"container\">\n<p>Package &lsquo;captr&rsquo; was removed from the CRAN repository.</p>\n<p>\nFormerly available versions can be obtained from the\n<a href=\"https://CRAN.R-project.org/src/contrib/Archive/captr\"><span class=\"CRAN\">archive</span></a>.\n</p>\n<p>\nArchived on 2026-01-09 at the maintainer's request.\n</p>\n<p>A summary of the most recent check results can be obtained from the <a href=\"https://cran-archive.R-project.org/web/checks/2026/2026-01-09_check_results_captr.html\"><span class=\"CRAN\">check results archive</span></a>.</p>\n<p>Please use the canonical form\n<a href=\"https://CRAN.R-project.org/package=captr\"><span class=\"CRAN\"><samp>https://CRAN.R-project.org/package=captr</samp></span></a>\nto link to this page.</p>\n</div>\n</body>\n</html>\n"
+  },
+  {
+    "name": "clarifai",
+    "cran_url": "https://cran.r-project.org/web/packages/clarifai/index.html",
+    "archived": true,
+    "page": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<title>CRAN: Package clarifai</title>\n<link rel=\"canonical\" href=\"https://CRAN.R-project.org/package=clarifai\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../CRAN_web.css\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\">\n</head>\n<body>\n<div class=\"container\">\n<p>Package &lsquo;clarifai&rsquo; was removed from the CRAN repository.</p>\n<p>\nFormerly available versions can be obtained from the\n<a href=\"https://CRAN.R-project.org/src/contrib/Archive/clarifai\"><span class=\"CRAN\">archive</span></a>.\n</p>\n<p>\nArchived on 2026-07-20 at the maintainer's request.\n</p>\n<p>A summary of the most recent check results can be obtained from the <a href=\"https://cran-archive.R-project.org/web/checks/2026/2026-07-20_check_results_clarifai.html\"><span class=\"CRAN\">check results archive</span></a>.</p>\n<p>Please use the canonical form\n<a href=\"https://CRAN.R-project.org/package=clarifai\"><span class=\"CRAN\"><samp>https://CRAN.R-project.org/package=clarifai</samp></span></a>\nto link to this page.</p>\n</div>\n</body>\n</html>\n"
+  }
+]

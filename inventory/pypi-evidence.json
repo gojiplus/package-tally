@@ -1,0 +1,869 @@
+{
+  "verified_at": "2026-11-06",
+  "source": "PyPI JSON API; profile exceptions explicitly recorded",
+  "packages": [
+    {
+      "name": "notnews",
+      "registry_url": "https://pypi.org/pypi/notnews/json",
+      "registry_authors": "Suriyan Laohaprapanon, Gaurav Sood Suriyan Laohaprapanon <suriyant@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/notnews/notnews/issues",
+        "Documentation": "https://notnews.github.io/notnews/",
+        "Homepage": "https://github.com/notnews/notnews",
+        "Repository": "https://github.com/notnews/notnews"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "sourcerer",
+      "registry_url": "https://pypi.org/pypi/sourcerer/json",
+      "registry_authors": "Jonathan Ferretti jon@jonathanferretti.com  ",
+      "registry_urls": {
+        "Homepage": "https://github.com/LISTERINE/sourcerer"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "covered",
+      "registry_url": "https://pypi.org/pypi/covered/json",
+      "registry_authors": "Yurii Motov   ",
+      "registry_urls": {
+        "Homepage": "https://github.com/YuriiMotov/covered",
+        "Issues": "https://github.com/YuriiMotov/covered/issues",
+        "Repository": "https://github.com/YuriiMotov/covered"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "pip-fund",
+      "registry_url": "https://pypi.org/pypi/pip-fund/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com> Gaurav Sood Gaurav Sood <contact@gsood.com>",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/recite/pip-fund/issues",
+        "Documentation": "https://github.com/recite/pip-fund#readme",
+        "Funding": "https://github.com/sponsors/soodoku",
+        "Homepage": "https://github.com/recite/pip-fund",
+        "Repository": "https://github.com/recite/pip-fund.git"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "softverse",
+      "registry_url": "https://pypi.org/pypi/softverse/json",
+      "registry_authors": "Gaurav Sood, Daniel Weitzel Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": null,
+      "confirmed": true
+    },
+    {
+      "name": "mlsynth",
+      "registry_url": "https://pypi.org/pypi/mlsynth/json",
+      "registry_authors": " Jared Greathouse <jgreathouse3@student.gsu.edu>  ",
+      "registry_urls": {
+        "Documentation": "https://mlsynth.readthedocs.io",
+        "Homepage": "https://github.com/jgreathouse9/mlsynth",
+        "Issues": "https://github.com/jgreathouse9/mlsynth/issues",
+        "Repository": "https://github.com/jgreathouse9/mlsynth"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "fewlab",
+      "registry_url": "https://pypi.org/pypi/fewlab/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Documentation": "https://finite-sample.github.io/fewlab/",
+        "Homepage": "https://github.com/finite-sample/fewlab",
+        "Repository": "https://github.com/finite-sample/fewlab"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "stable-cart",
+      "registry_url": "https://pypi.org/pypi/stable-cart/json",
+      "registry_authors": "Gaurav Sood, Arav Bhosle Gaurav Sood <contact@gsood.com>, Arav Bhosle <aravbhosle@gmail.com>  ",
+      "registry_urls": {
+        "Changelog": "https://github.com/finite-sample/stable-cart/blob/main/CHANGELOG.md",
+        "Documentation": "https://finite-sample.github.io/stable-cart/",
+        "Homepage": "https://github.com/finite-sample/stable-cart",
+        "Issues": "https://github.com/finite-sample/stable-cart/issues",
+        "Repository": "https://github.com/finite-sample/stable-cart"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "optimal-classification-cutoffs",
+      "registry_url": "https://pypi.org/pypi/optimal-classification-cutoffs/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Changelog": "https://github.com/finite-sample/optimal-classification-cutoffs/blob/master/CHANGELOG.md",
+        "Documentation": "https://finite-sample.github.io/optimal-classification-cutoffs/",
+        "Homepage": "https://github.com/finite-sample/optimal-classification-cutoffs",
+        "Repository": "https://github.com/finite-sample/optimal-classification-cutoffs"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "calibre",
+      "registry_url": "https://pypi.org/pypi/calibre/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/finite-sample/calibre/issues",
+        "Documentation": "https://finite-sample.github.io/calibre/",
+        "Homepage": "https://github.com/finite-sample/calibre",
+        "Repository": "https://github.com/finite-sample/calibre"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "maketables",
+      "registry_url": "https://pypi.org/pypi/maketables/json",
+      "registry_authors": " Alexander Fischer <alexander-fischer1801@t-online.de>, Dirk Sliwka <dirk.sliwka@uni-koeln.de>  ",
+      "registry_urls": {
+        "Documentation": "https://py-econometrics.github.io/maketables/",
+        "Homepage": "https://py-econometrics.github.io/maketables/",
+        "Issues": "https://github.com/py-econometrics/maketables/issues",
+        "Repository": "https://github.com/py-econometrics/maketables"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "fairlex",
+      "registry_url": "https://pypi.org/pypi/fairlex/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/finite-sample/fairlex/issues",
+        "Documentation": "https://finite-sample.github.io/fairlex/",
+        "Homepage": "https://github.com/finite-sample/fairlex",
+        "Repository": "https://github.com/finite-sample/fairlex"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "preclink",
+      "registry_url": "https://pypi.org/pypi/preclink/json",
+      "registry_authors": " Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Documentation": "https://finite-sample.github.io/preclink",
+        "Homepage": "https://github.com/finite-sample/preclink",
+        "Issues": "https://github.com/finite-sample/preclink/issues",
+        "Repository": "https://github.com/finite-sample/preclink"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "rmcp",
+      "registry_url": "https://pypi.org/pypi/rmcp/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Documentation": "https://github.com/finite-sample/rmcp#readme",
+        "Homepage": "https://github.com/finite-sample/rmcp",
+        "Issues": "https://github.com/finite-sample/rmcp/issues",
+        "Repository": "https://github.com/finite-sample/rmcp"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "hbw",
+      "registry_url": "https://pypi.org/pypi/hbw/json",
+      "registry_authors": " Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Documentation": "https://finite-sample.github.io/hbw",
+        "Homepage": "https://github.com/finite-sample/hbw",
+        "Issues": "https://github.com/finite-sample/hbw/issues",
+        "Repository": "https://github.com/finite-sample/hbw"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "stagecoachml",
+      "registry_url": "https://pypi.org/pypi/stagecoachml/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com> Gaurav Sood Gaurav Sood <contact@gsood.com>",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/finite-sample/stagecoachml/issues",
+        "Changelog": "https://github.com/finite-sample/stagecoachml/blob/main/CHANGELOG.md",
+        "Documentation": "https://finite-sample.github.io/stagecoachml/",
+        "Homepage": "https://github.com/finite-sample/stagecoachml",
+        "Repository": "https://github.com/finite-sample/stagecoachml"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "incline",
+      "registry_url": "https://pypi.org/pypi/incline/json",
+      "registry_authors": "Suriyan Laohaprapanon, Gaurav Sood Suriyan Laohaprapanon <suriyant@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Documentation": "https://finite-sample.github.io/incline/",
+        "Homepage": "https://github.com/finite-sample/incline",
+        "Issues": "https://github.com/finite-sample/incline/issues",
+        "Repository": "https://github.com/finite-sample/incline"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "act",
+      "registry_url": "https://pypi.org/pypi/act/json",
+      "registry_authors": "   ",
+      "registry_urls": null,
+      "confirmed": false
+    },
+    {
+      "name": "streamcal",
+      "registry_url": "https://pypi.org/pypi/streamcal/json",
+      "registry_authors": "Gaurav Sood   ",
+      "registry_urls": {
+        "Documentation": "https://finite-sample.github.io/streamcal/",
+        "Homepage": "https://github.com/finite-sample/streamcal",
+        "Issues": "https://github.com/finite-sample/streamcal/issues",
+        "Repository": "https://github.com/finite-sample/streamcal"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "alsgls",
+      "registry_url": "https://pypi.org/pypi/alsgls/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Documentation": "https://finite-sample.github.io/alsgls/",
+        "Homepage": "https://github.com/finite-sample/alsgls",
+        "Repository": "https://github.com/finite-sample/alsgls"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "winference",
+      "registry_url": "https://pypi.org/pypi/winference/json",
+      "registry_authors": "gaurav sood   ",
+      "registry_urls": {
+        "Documentation": "https://github.com/finite-sample/winference#readme",
+        "Homepage": "https://github.com/finite-sample/winference",
+        "Issues": "https://github.com/finite-sample/winference/issues",
+        "Repository": "https://github.com/finite-sample/winference"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "dct",
+      "registry_url": "https://pypi.org/pypi/dct/json",
+      "registry_authors": " Ohad Drukman <drukmano@icloud.com>  ",
+      "registry_urls": {
+        "repository": "https://github.com/drukmano/pydict.git"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "hessband",
+      "registry_url": "https://pypi.org/pypi/hessband/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Documentation": "https://finite-sample.github.io/hessband/",
+        "Homepage": "https://github.com/finite-sample/hessband",
+        "Issues": "https://github.com/finite-sample/hessband/issues",
+        "Repository": "https://github.com/finite-sample/hessband"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "replay",
+      "registry_url": "https://pypi.org/pypi/replay/json",
+      "registry_authors": "Maik Messerschmidt maik.messerschmidt@gmx.net  ",
+      "registry_urls": {
+        "Download": "https://github.com/messersm/replay/tarball/0.1.2",
+        "Homepage": "https://github.com/messersm/replay"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "DoubleML",
+      "registry_url": "https://pypi.org/pypi/doubleml/json",
+      "registry_authors": "Bach, P., Chernozhukov, V., Klaassen, S., Kurz, M. S., and Spindler, M.   Sven Klaassen <sven.klaassen@uni-hamburg.de>",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/DoubleML/doubleml-for-py/issues",
+        "Documentation": "https://docs.doubleml.org",
+        "Source": "https://github.com/DoubleML/doubleml-for-py"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "onlinerake",
+      "registry_url": "https://pypi.org/pypi/onlinerake/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Documentation": "https://finite-sample.github.io/onlinerake/",
+        "Homepage": "https://github.com/finite-sample/onlinerake",
+        "Issues": "https://github.com/finite-sample/onlinerake/issues",
+        "Repository": "https://github.com/finite-sample/onlinerake"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "rank-preserving-calibration",
+      "registry_url": "https://pypi.org/pypi/rank-preserving-calibration/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Documentation": "https://finite-sample.github.io/rank-preserving-calibration/",
+        "Homepage": "https://github.com/finite-sample/rank-preserving-calibration",
+        "Issues": "https://github.com/finite-sample/rank-preserving-calibration/issues",
+        "Source": "https://github.com/finite-sample/rank-preserving-calibration"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "linearmodels",
+      "registry_url": "https://pypi.org/pypi/linearmodels/json",
+      "registry_authors": " Kevin Sheppard <kevin.k.sheppard@gmail.com>  Kevin Sheppard <kevin.k.sheppard@gmail.com>",
+      "registry_urls": {
+        "changelog": "https://bashtage.github.io/linearmodels/changes.html",
+        "documentation": "https://bashtage.github.io/linearmodels/",
+        "homepage": "https://github.com/bashtage/linearmodels",
+        "repository": "https://github.com/bashtage/linearmodels"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "finite-selection",
+      "registry_url": "https://pypi.org/pypi/finite-selection/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Changelog": "https://github.com/finite-sample/finite-selection/blob/main/CHANGELOG.md",
+        "Documentation": "https://finite-sample.github.io/finite-selection/",
+        "Homepage": "https://github.com/finite-sample/finite-selection",
+        "Issues": "https://github.com/finite-sample/finite-selection/issues",
+        "Repository": "https://github.com/finite-sample/finite-selection"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "pyppur",
+      "registry_url": "https://pypi.org/pypi/pyppur/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/gojiplus/pyppur/issues",
+        "Homepage": "https://github.com/gojiplus/pyppur"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "simcheck",
+      "registry_url": "https://pypi.org/pypi/simcheck/json",
+      "registry_authors": " Jash Shah <jashshah.999@gmail.com>  ",
+      "registry_urls": {
+        "Changelog": "https://github.com/jashshah999/simcheck/blob/main/CHANGELOG.md",
+        "Documentation": "https://github.com/jashshah999/simcheck/tree/main/docs",
+        "Homepage": "https://github.com/jashshah999/simcheck",
+        "Issues": "https://github.com/jashshah999/simcheck/issues"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "setjoin",
+      "registry_url": "https://pypi.org/pypi/setjoin/json",
+      "registry_authors": "Gaurav Sood   ",
+      "registry_urls": {
+        "Documentation": "https://finite-sample.github.io/setjoin",
+        "Homepage": "https://github.com/finite-sample/setjoin",
+        "Issues": "https://github.com/finite-sample/setjoin/issues",
+        "Repository": "https://github.com/finite-sample/setjoin"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "scikit-learn",
+      "registry_url": "https://pypi.org/pypi/scikit-learn/json",
+      "registry_authors": "   scikit-learn developers <scikit-learn@python.org>",
+      "registry_urls": {
+        "download": "https://pypi.org/project/scikit-learn/#files",
+        "homepage": "https://scikit-learn.org",
+        "release notes": "https://scikit-learn.org/stable/whats_new",
+        "source": "https://github.com/scikit-learn/scikit-learn",
+        "tracker": "https://github.com/scikit-learn/scikit-learn/issues"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "piedomains",
+      "registry_url": "https://pypi.org/pypi/piedomains/json",
+      "registry_authors": "Rajashekar Chintalapati, Gaurav Sood Rajashekar Chintalapati <rajshekar.ch@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Changelog": "https://github.com/themains/piedomains/blob/main/CHANGELOG.md",
+        "Documentation": "https://themains.github.io/piedomains/",
+        "Homepage": "https://github.com/themains/piedomains",
+        "Issues": "https://github.com/themains/piedomains/issues",
+        "Repository": "https://github.com/themains/piedomains"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "know-your-ip",
+      "registry_url": "https://pypi.org/pypi/know-your-ip/json",
+      "registry_authors": " Suriyan Laohaprapanon <suriyant@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/themains/know-your-ip/issues",
+        "Documentation": "https://themains.github.io/know-your-ip/",
+        "Homepage": "https://github.com/themains/know-your-ip",
+        "Repository": "https://github.com/themains/know-your-ip"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "geoestimate",
+      "registry_url": "https://pypi.org/pypi/geoestimate/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Documentation": "https://geosensing.github.io/geoestimate/",
+        "Homepage": "https://github.com/geosensing/geoestimate",
+        "Issues": "https://github.com/geosensing/geoestimate/issues",
+        "Repository": "https://github.com/geosensing/geoestimate"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "geo-sampling",
+      "registry_url": "https://pypi.org/pypi/geo-sampling/json",
+      "registry_authors": " Suriyan Laohaprapanon <suriyant@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Homepage": "https://github.com/geosensing/geo_sampling",
+        "Repository": "https://github.com/geosensing/geo_sampling"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "allocator",
+      "registry_url": "https://pypi.org/pypi/allocator/json",
+      "registry_authors": "Suriyan Laohaprapanon, Gaurav Sood Suriyan Laohaprapanon <suriyant@gmail.com>, Gaurav Sood <gsood07@gmail.com> Gaurav Sood Gaurav Sood <gsood07@gmail.com>",
+      "registry_urls": {
+        "Bug Reports": "https://github.com/geosensing/allocator/issues",
+        "Changelog": "https://github.com/geosensing/allocator/blob/main/CHANGELOG.md",
+        "Documentation": "https://geosensing.github.io/allocator/",
+        "Homepage": "https://github.com/geosensing/allocator",
+        "Repository": "https://github.com/geosensing/allocator.git",
+        "Source Code": "https://github.com/geosensing/allocator"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "streetscope",
+      "registry_url": "https://pypi.org/pypi/streetscope/json",
+      "registry_authors": "koito19960406   ",
+      "registry_urls": null,
+      "confirmed": false
+    },
+    {
+      "name": "savitr",
+      "registry_url": "https://pypi.org/pypi/savitr/json",
+      "registry_authors": "in-rolls   ",
+      "registry_urls": {
+        "Documentation": "https://in-rolls.github.io/savitr/",
+        "Homepage": "https://github.com/in-rolls/savitr",
+        "Issues": "https://github.com/in-rolls/savitr/issues",
+        "Model": "https://huggingface.co/gojiberries/savitr",
+        "Repository": "https://github.com/in-rolls/savitr"
+      },
+      "confirmed": true,
+      "profile": "https://pypi.org/user/soodoku/"
+    },
+    {
+      "name": "indicate",
+      "registry_url": "https://pypi.org/pypi/indicate/json",
+      "registry_authors": "Rajashekar Chintalapati, Gaurav Sood Rajashekar Chintalapati <rajshekar.ch@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Homepage": "https://github.com/in-rolls/indicate",
+        "Repository": "https://github.com/in-rolls/indicate"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "pylint",
+      "registry_url": "https://pypi.org/pypi/pylint/json",
+      "registry_authors": " Python Code Quality Authority <code-quality@python.org>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/pylint-dev/pylint/issues",
+        "Discord Server": "https://discord.com/invite/Egy6P8AMB5",
+        "Docs: Contributor Guide": "https://pylint.readthedocs.io/en/latest/development_guide/contributor_guide/index.html",
+        "Docs: User Guide": "https://pylint.readthedocs.io/en/latest/",
+        "Source Code": "https://github.com/pylint-dev/pylint",
+        "What's New": "https://pylint.readthedocs.io/en/latest/whatsnew/4/",
+        "homepage": "https://github.com/pylint-dev/pylint"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "pylint",
+      "registry_url": "https://pypi.org/pypi/pylint/json",
+      "registry_authors": " Python Code Quality Authority <code-quality@python.org>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/pylint-dev/pylint/issues",
+        "Discord Server": "https://discord.com/invite/Egy6P8AMB5",
+        "Docs: Contributor Guide": "https://pylint.readthedocs.io/en/latest/development_guide/contributor_guide/index.html",
+        "Docs: User Guide": "https://pylint.readthedocs.io/en/latest/",
+        "Source Code": "https://github.com/pylint-dev/pylint",
+        "What's New": "https://pylint.readthedocs.io/en/latest/whatsnew/4/",
+        "homepage": "https://github.com/pylint-dev/pylint"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "wayback",
+      "registry_url": "https://pypi.org/pypi/wayback/json",
+      "registry_authors": "   Rob Brackett <rob@robbrackett.com>, Environmental Data Governance Initiative <EnviroDGI@protonmail.com>",
+      "registry_urls": {
+        "Changelog": "https://wayback.readthedocs.io/en/stable/release-history.html",
+        "Documentation": "https://wayback.readthedocs.io/en/stable/",
+        "Homepage": "https://github.com/edgi-govdata-archiving/wayback",
+        "Issues": "https://github.com/edgi-govdata-archiving/wayback/issues",
+        "Source code": "https://github.com/edgi-govdata-archiving/wayback"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "python-espncricinfo",
+      "registry_url": "https://pypi.org/pypi/python-espncricinfo/json",
+      "registry_authors": "Derek Willis, Gaurav Sood Derek Willis <dwillis@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Changelog": "https://github.com/outside-edge/python-espncricinfo/blob/master/CHANGELOG.md",
+        "Documentation": "https://outside-edge.github.io/python-espncricinfo/",
+        "Homepage": "https://github.com/outside-edge/python-espncricinfo",
+        "Issues": "https://github.com/outside-edge/python-espncricinfo/issues",
+        "Repository": "https://github.com/outside-edge/python-espncricinfo"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "naampy",
+      "registry_url": "https://pypi.org/pypi/naampy/json",
+      "registry_authors": "Gaurav Sood, Suriyan Laohaprapanon, Rajashekar Chintalapati Gaurav Sood <gsood07@gmail.com>, Suriyan Laohaprapanon <suriyant@gmail.com>, Rajashekar Chintalapati <rajshekar.ch@gmail.com>  ",
+      "registry_urls": {
+        "Changelog": "https://github.com/appeler/naampy/blob/master/CHANGELOG.md",
+        "Documentation": "https://appeler.github.io/naampy/",
+        "Homepage": "https://github.com/appeler/naampy",
+        "Issues": "https://github.com/appeler/naampy/issues",
+        "Repository": "https://github.com/appeler/naampy"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "instate",
+      "registry_url": "https://pypi.org/pypi/instate/json",
+      "registry_authors": "Atul Dhingra, Gaurav Sood, Rajashekar Chintalapati Atul Dhingra <dhingra.atul92@gmail.com>, Gaurav Sood <gsood07@gmail.com>, Rajashekar Chintalapati <rajshekar.ch@gmail.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/appeler/instate/issues",
+        "Homepage": "https://github.com/appeler/instate",
+        "Repository": "https://github.com/appeler/instate"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "pranaam",
+      "registry_url": "https://pypi.org/pypi/pranaam/json",
+      "registry_authors": "Rajashekar Chintalapati, Aaditya Dar, Gaurav Sood Rajashekar Chintalapati <rajshekar.ch@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/appeler/pranaam/issues",
+        "Homepage": "https://github.com/appeler/pranaam",
+        "Repository": "https://github.com/appeler/pranaam"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "ethnicolr",
+      "registry_url": "https://pypi.org/pypi/ethnicolr/json",
+      "registry_authors": "Gaurav Sood, Suriyan Laohaprapanon Gaurav Sood <contact@gsood.com>, Suriyan Laohaprapanon <suriyant@gmail.com>  ",
+      "registry_urls": {
+        "Bug Reports": "https://github.com/appeler/ethnicolr/issues",
+        "Documentation": "https://appeler.github.io/ethnicolr/",
+        "Homepage": "https://github.com/appeler/ethnicolr",
+        "Source Code": "https://github.com/appeler/ethnicolr"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "parsernaam",
+      "registry_url": "https://pypi.org/pypi/parsernaam/json",
+      "registry_authors": "Rajashekar Chintalapati, Gaurav Sood Rajashekar Chintalapati <rajshekar.ch@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Changelog": "https://github.com/appeler/parsernaam/blob/main/CHANGELOG.md",
+        "Documentation": "https://appeler.github.io/parsernaam/",
+        "Homepage": "https://github.com/appeler/parsernaam",
+        "Issues": "https://github.com/appeler/parsernaam/issues",
+        "Repository": "https://github.com/appeler/parsernaam"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "search-names",
+      "registry_url": "https://pypi.org/pypi/search-names/json",
+      "registry_authors": "Suriyan Laohaprapanon, Gaurav Sood Suriyan Laohaprapanon <suriyant@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Documentation": "https://appeler.github.io/search-names/",
+        "Homepage": "https://github.com/appeler/search-names",
+        "Issues": "https://github.com/appeler/search-names/issues",
+        "Repository": "https://github.com/appeler/search-names"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "ethnicolr2",
+      "registry_url": "https://pypi.org/pypi/ethnicolr2/json",
+      "registry_authors": "Rajshekar, Suriyan, Gaurav Sood Rajshekar <rajshekar.ch@gmail.com>, Suriyan <suriyant@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/appeler/ethnicolr2/issues",
+        "Changelog": "https://github.com/appeler/ethnicolr2/blob/main/CHANGELOG.md",
+        "Documentation": "https://appeler.github.io/ethnicolr2/",
+        "Homepage": "https://appeler.github.io/ethnicolr2/",
+        "Model": "https://huggingface.co/gojiberries/ethnicolr2",
+        "Repository": "https://github.com/appeler/ethnicolr2"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "naamkaran",
+      "registry_url": "https://pypi.org/pypi/naamkaran/json",
+      "registry_authors": "Rajashekar Chintalapati, Gaurav Sood Rajashekar Chintalapati <rajshekar.ch@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Documentation": "https://appeler.github.io/naamkaran/",
+        "Homepage": "https://github.com/appeler/naamkaran",
+        "Issues": "https://github.com/appeler/naamkaran/issues",
+        "Repository": "https://github.com/appeler/naamkaran"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "outkast",
+      "registry_url": "https://pypi.org/pypi/outkast/json",
+      "registry_authors": "Gaurav Sood, Suriyan Laohaprapanon Gaurav Sood <gsood07@gmail.com>, Suriyan Laohaprapanon <suriyant@gmail.com>  ",
+      "registry_urls": {
+        "Homepage": "https://github.com/appeler/outkast",
+        "Issues": "https://github.com/appeler/outkast/issues",
+        "Repository": "https://github.com/appeler/outkast"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "preen",
+      "registry_url": "https://pypi.org/pypi/preen/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/gojiplus/preen/issues",
+        "Documentation": "https://gojiplus.github.io/preen/",
+        "Homepage": "https://github.com/gojiplus/preen",
+        "Repository": "https://github.com/gojiplus/preen"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "statqa",
+      "registry_url": "https://pypi.org/pypi/statqa/json",
+      "registry_authors": "Gaurav Sood   ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/gojiplus/statqa/issues",
+        "Documentation": "https://gojiplus.github.io/statqa",
+        "Homepage": "https://github.com/gojiplus/statqa",
+        "Repository": "https://github.com/gojiplus/statqa"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "devclean",
+      "registry_url": "https://pypi.org/pypi/devclean/json",
+      "registry_authors": " appsfolder <axelixdev@gmail.com>  ",
+      "registry_urls": {
+        "Homepage": "https://github.com/appsfolder/devclean",
+        "Issues": "https://github.com/appsfolder/devclean/issues",
+        "Repository": "https://github.com/appsfolder/devclean"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "slosizer",
+      "registry_url": "https://pypi.org/pypi/slosizer/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Changelog": "https://github.com/gojiplus/slosizer/blob/main/CHANGELOG.md",
+        "Documentation": "https://gojiplus.github.io/slosizer",
+        "Homepage": "https://github.com/gojiplus/slosizer",
+        "Issues": "https://github.com/gojiplus/slosizer/issues",
+        "Repository": "https://github.com/gojiplus/slosizer"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "batchlane",
+      "registry_url": "https://pypi.org/pypi/batchlane/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/gojiplus/batchlane/issues",
+        "Homepage": "https://github.com/gojiplus/batchlane",
+        "Repository": "https://github.com/gojiplus/batchlane"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "layoutlens",
+      "registry_url": "https://pypi.org/pypi/layoutlens/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com> Gaurav Sood Gaurav Sood <contact@gsood.com>",
+      "registry_urls": {
+        "Bug Reports": "https://github.com/gojiplus/layoutlens/issues",
+        "Changelog": "https://github.com/gojiplus/layoutlens/blob/main/CHANGELOG.md",
+        "Documentation": "https://gojiplus.github.io/layoutlens/",
+        "Homepage": "https://github.com/gojiplus/layoutlens",
+        "Source": "https://github.com/gojiplus/layoutlens"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "gringotts-api",
+      "registry_url": "https://pypi.org/pypi/gringotts-api/json",
+      "registry_authors": " Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/gojiplus/gringotts/issues",
+        "Documentation": "https://gojiplus.github.io/gringotts/",
+        "Homepage": "https://github.com/gojiplus/gringotts",
+        "Repository": "https://github.com/gojiplus/gringotts"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "lost-years",
+      "registry_url": "https://pypi.org/pypi/lost-years/json",
+      "registry_authors": "Suriyan Laohaprapanon, Gaurav Sood Suriyan Laohaprapanon <suriyant@gmail.com>, Gaurav Sood <gsood07@gmail.com> Suriyan Laohaprapanon, Gaurav Sood Suriyan Laohaprapanon <suriyant@gmail.com>, Gaurav Sood <gsood07@gmail.com>",
+      "registry_urls": {
+        "Documentation": "https://gojiplus.github.io/lost-years/",
+        "Homepage": "https://github.com/gojiplus/lost-years",
+        "Issues": "https://github.com/gojiplus/lost-years/issues",
+        "Repository": "https://github.com/gojiplus/lost-years.git"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "uijudge-bench",
+      "registry_url": "https://pypi.org/pypi/uijudge-bench/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Bug Reports": "https://github.com/gojiplus/uijudge-bench/issues",
+        "Changelog": "https://github.com/gojiplus/uijudge-bench/blob/main/CHANGELOG.md",
+        "Dataset": "https://huggingface.co/datasets/gojiberries/uijudge-bench",
+        "Homepage": "https://github.com/gojiplus/uijudge-bench",
+        "Source": "https://github.com/gojiplus/uijudge-bench"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "rowvoi",
+      "registry_url": "https://pypi.org/pypi/rowvoi/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <contact@gsood.com>  ",
+      "registry_urls": {
+        "Documentation": "https://gojiplus.github.io/rowvoi/",
+        "Homepage": "https://github.com/gojiplus/rowvoi",
+        "Issues": "https://github.com/gojiplus/rowvoi/issues",
+        "Repository": "https://github.com/gojiplus/rowvoi"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "carrier-pigeon",
+      "registry_url": "https://pypi.org/pypi/carrier-pigeon/json",
+      "registry_authors": " Slartibartfast Lanning <slartilabs@protonmail.com>  ",
+      "registry_urls": {
+        "Homepage": "https://github.com/SlartiLabs/pigeon",
+        "Issues": "https://github.com/SlartiLabs/pigeon/issues",
+        "Repository": "https://github.com/SlartiLabs/pigeon"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "sortition",
+      "registry_url": "https://pypi.org/pypi/sortition/json",
+      "registry_authors": " Strategos <r@strategos.au>  ",
+      "registry_urls": {
+        "Source": "https://github.com/ShadowStrike-CTF/sortition"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "reporoulette",
+      "registry_url": "https://pypi.org/pypi/reporoulette/json",
+      "registry_authors": "Gaurav Sood Gaurav Sood <gsood07@example.com>  ",
+      "registry_urls": {
+        "Bug Tracker": "https://github.com/gojiplus/reporoulette/issues",
+        "Changelog": "https://github.com/gojiplus/reporoulette/releases",
+        "Documentation": "https://gojiplus.github.io/reporoulette/",
+        "Homepage": "https://github.com/gojiplus/reporoulette",
+        "Repository": "https://github.com/gojiplus/reporoulette"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "paper-voice",
+      "registry_url": "https://pypi.org/pypi/paper-voice/json",
+      "registry_authors": " Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "documentation": "https://gojiplus.github.io/paper_voice",
+        "homepage": "https://github.com/gojiplus/paper_voice",
+        "repository": "https://github.com/gojiplus/paper_voice"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "get-weather-data",
+      "registry_url": "https://pypi.org/pypi/get-weather-data/json",
+      "registry_authors": " Suriyan Laohaprapanon <suriyant@gmail.com>, Gaurav Sood <gsood07@gmail.com>  ",
+      "registry_urls": {
+        "Homepage": "https://github.com/soodoku/get-weather-data",
+        "Issues": "https://github.com/soodoku/get-weather-data/issues",
+        "Repository": "https://github.com/soodoku/get-weather-data"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "understudy",
+      "registry_url": "https://pypi.org/pypi/understudy/json",
+      "registry_authors": "Gaurav Sood   ",
+      "registry_urls": {
+        "Documentation": "https://gojiplus.github.io/understudy",
+        "Homepage": "https://github.com/gojiplus/understudy",
+        "Issues": "https://github.com/gojiplus/understudy/issues",
+        "Repository": "https://github.com/gojiplus/understudy"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "yamllint",
+      "registry_url": "https://pypi.org/pypi/yamllint/json",
+      "registry_authors": "Adrien Verg\u00e9   ",
+      "registry_urls": {
+        "documentation": "https://yamllint.readthedocs.io",
+        "homepage": "https://github.com/adrienverge/yamllint",
+        "repository": "https://github.com/adrienverge/yamllint"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "adjacent",
+      "registry_url": "https://pypi.org/pypi/adjacent/json",
+      "registry_authors": "Alexandr Emelin frvzmb@gmail.com  ",
+      "registry_urls": {
+        "Download": "https://github.com/centrifugal/adjacent",
+        "Homepage": "https://github.com/centrifugal/adjacent"
+      },
+      "confirmed": false
+    },
+    {
+      "name": "repaper",
+      "profile": "https://pypi.org/user/soodoku/",
+      "registry_url": "https://pypi.org/pypi/repaper/json",
+      "registry_authors": "Bhanu Pallakonda pvbhanuteja@gmail.com  ",
+      "registry_urls": {
+        "Homepage": "https://github.com/pvbhanuteja/repaper"
+      },
+      "confirmed": true
+    },
+    {
+      "name": "kahipwrapper",
+      "profile": "https://pypi.org/user/soodoku/",
+      "registry_url": "https://pypi.org/pypi/kahipwrapper/json",
+      "registry_authors": "Suriyan Lahaprapanon, Gaurav Sood suriyant@gmail.com, gsood07@gmail.com  ",
+      "registry_urls": {
+        "Homepage": "http://github.com/suriyan/KaHIP-wrapper"
+      },
+      "confirmed": true
+    }
+  ]
+}

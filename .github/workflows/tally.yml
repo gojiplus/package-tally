@@ -1,0 +1,21 @@
+name: Tally
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  tally:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: '3.14'
+      - run: python -m pip install .
+      - run: package-tally packages.toml --output reports/workflow
+      - uses: actions/upload-artifact@v7.0.2
+        if: always()
+        with:
+          name: package-downloads
+          path: reports/workflow
+          if-no-files-found: error

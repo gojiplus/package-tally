@@ -1,0 +1,392 @@
+# Registry-verified inventory; see inventory/README.md.
+
+[[packages]]
+ecosystem = "cran"
+name = "abbyyR"
+repository = "https://github.com/gojiplus/abbyyR"
+evidence = "https://cran.r-project.org/src/contrib/Archive/abbyyR/"
+note = "Archived CRAN package; historical downloads included."
+
+[[packages]]
+ecosystem = "cran"
+name = "aws.alexa"
+repository = "https://github.com/cloudyr/aws.alexa"
+evidence = "https://cran.r-project.org/src/contrib/Archive/aws.alexa/"
+note = "Archived CRAN package; historical downloads included."
+
+[[packages]]
+ecosystem = "cran"
+name = "captr"
+repository = "https://github.com/gojiplus/captr"
+evidence = "https://cran.r-project.org/src/contrib/Archive/captr/"
+note = "Archived CRAN package; historical downloads included."
+
+[[packages]]
+ecosystem = "cran"
+name = "clarifai"
+repository = "https://github.com/gojiplus/clarifai"
+evidence = "https://cran.r-project.org/src/contrib/Archive/clarifai/"
+note = "Archived CRAN package; historical downloads included."
+
+[[packages]]
+ecosystem = "cran"
+name = "guess"
+repository = "https://github.com/finite-sample/guess"
+evidence = "https://cran.r-project.org/web/packages/guess/index.html"
+
+[[packages]]
+ecosystem = "cran"
+name = "rdomains"
+repository = "https://github.com/themains/rdomains"
+evidence = "https://cran.r-project.org/web/packages/rdomains/index.html"
+
+[[packages]]
+ecosystem = "cran"
+name = "tuber"
+repository = "https://github.com/gojiplus/tuber"
+evidence = "https://cran.r-project.org/web/packages/tuber/index.html"
+
+[[packages]]
+ecosystem = "cran"
+name = "tubern"
+repository = "https://github.com/gojiplus/tubern"
+evidence = "https://cran.r-project.org/web/packages/tubern/index.html"
+
+[[packages]]
+ecosystem = "cran"
+name = "virustotal"
+repository = "https://github.com/themains/virustotal"
+evidence = "https://cran.r-project.org/web/packages/virustotal/index.html"
+
+[[packages]]
+ecosystem = "pypi"
+name = "allocator"
+repository = "https://github.com/geosensing/allocator"
+evidence = "https://pypi.org/pypi/allocator/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "alsgls"
+repository = "https://github.com/finite-sample/alsgls"
+evidence = "https://pypi.org/pypi/alsgls/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "batchlane"
+repository = "https://github.com/gojiplus/batchlane"
+evidence = "https://pypi.org/pypi/batchlane/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "calibre"
+repository = "https://github.com/finite-sample/calibre"
+evidence = "https://pypi.org/pypi/calibre/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "ethnicolr"
+repository = "https://github.com/appeler/ethnicolr"
+evidence = "https://pypi.org/pypi/ethnicolr/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "ethnicolr2"
+repository = "https://github.com/appeler/ethnicolr2"
+evidence = "https://pypi.org/pypi/ethnicolr2/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "fairlex"
+repository = "https://github.com/finite-sample/fairlex"
+evidence = "https://pypi.org/pypi/fairlex/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "fewlab"
+repository = "https://github.com/finite-sample/fewlab"
+evidence = "https://pypi.org/pypi/fewlab/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "finite-selection"
+repository = "https://github.com/finite-sample/finite-selection"
+evidence = "https://pypi.org/pypi/finite-selection/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "geo-sampling"
+repository = "https://github.com/geosensing/geo-sampling"
+evidence = "https://pypi.org/pypi/geo-sampling/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "geoestimate"
+repository = "https://github.com/geosensing/geoestimate"
+evidence = "https://pypi.org/pypi/geoestimate/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "get-weather-data"
+repository = "https://github.com/gojiplus/get-weather-data"
+evidence = "https://pypi.org/pypi/get-weather-data/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "gringotts-api"
+repository = "https://github.com/gojiplus/gringotts"
+evidence = "https://pypi.org/pypi/gringotts-api/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "hbw"
+repository = "https://github.com/finite-sample/hbw"
+evidence = "https://pypi.org/pypi/hbw/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "hessband"
+repository = "https://github.com/finite-sample/hessband"
+evidence = "https://pypi.org/pypi/hessband/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "incline"
+repository = "https://github.com/finite-sample/incline"
+evidence = "https://pypi.org/pypi/incline/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "indicate"
+repository = "https://github.com/in-rolls/indicate"
+evidence = "https://pypi.org/pypi/indicate/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "instate"
+repository = "https://github.com/appeler/instate"
+evidence = "https://pypi.org/pypi/instate/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "kahipwrapper"
+repository = "http://github.com/suriyan/KaHIP-wrapper"
+evidence = "https://pypi.org/pypi/kahipwrapper/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "know-your-ip"
+repository = "https://github.com/themains/know-your-ip"
+evidence = "https://pypi.org/pypi/know-your-ip/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "layoutlens"
+repository = "https://github.com/gojiplus/layoutlens"
+evidence = "https://pypi.org/pypi/layoutlens/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "lost-years"
+repository = "https://github.com/gojiplus/lost-years"
+evidence = "https://pypi.org/pypi/lost-years/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "naamkaran"
+repository = "https://github.com/appeler/naamkaran"
+evidence = "https://pypi.org/pypi/naamkaran/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "naampy"
+repository = "https://github.com/appeler/naampy"
+evidence = "https://pypi.org/pypi/naampy/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "notnews"
+repository = "https://github.com/notnews/notnews"
+evidence = "https://pypi.org/pypi/notnews/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "onlinerake"
+repository = "https://github.com/finite-sample/onlinerake"
+evidence = "https://pypi.org/pypi/onlinerake/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "optimal-classification-cutoffs"
+repository = "https://github.com/finite-sample/optimal-classification-cutoffs"
+evidence = "https://pypi.org/pypi/optimal-classification-cutoffs/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "outkast"
+repository = "https://github.com/appeler/outkast"
+evidence = "https://pypi.org/pypi/outkast/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "paper-voice"
+repository = "https://github.com/gojiplus/paper_voice"
+evidence = "https://pypi.org/pypi/paper-voice/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "parsernaam"
+repository = "https://github.com/appeler/parsernaam"
+evidence = "https://pypi.org/pypi/parsernaam/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "piedomains"
+repository = "https://github.com/themains/piedomains"
+evidence = "https://pypi.org/pypi/piedomains/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "pip-fund"
+repository = "https://github.com/recite/pip-fund"
+evidence = "https://pypi.org/pypi/pip-fund/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "pranaam"
+repository = "https://github.com/appeler/pranaam"
+evidence = "https://pypi.org/pypi/pranaam/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "preclink"
+repository = "https://github.com/finite-sample/preclink"
+evidence = "https://pypi.org/pypi/preclink/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "preen"
+repository = "https://github.com/gojiplus/preen"
+evidence = "https://pypi.org/pypi/preen/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "pydomains"
+repository = "https://github.com/themains/pydomains"
+evidence = "https://github.com/themains/pydomains/blob/master/setup.py"
+note = "Historical PyPI project; JSON endpoint now returns 404, but Pepy retains its separate counter."
+
+[[packages]]
+ecosystem = "pypi"
+name = "pyppur"
+repository = "https://github.com/finite-sample/pyppur"
+evidence = "https://pypi.org/pypi/pyppur/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "python-espncricinfo"
+repository = "https://github.com/outside-edge/python-espncricinfo"
+evidence = "https://pypi.org/pypi/python-espncricinfo/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "rank-preserving-calibration"
+repository = "https://github.com/finite-sample/rank-preserving-calibration"
+evidence = "https://pypi.org/pypi/rank-preserving-calibration/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "repaper"
+repository = "https://github.com/pvbhanuteja/repaper"
+evidence = "https://pypi.org/user/soodoku/"
+note = "Listed on soodoku PyPI profile; counted as maintained, not sole authorship."
+
+[[packages]]
+ecosystem = "pypi"
+name = "reporoulette"
+repository = "https://github.com/gojiplus/reporoulette"
+evidence = "https://pypi.org/pypi/reporoulette/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "rmcp"
+repository = "https://github.com/finite-sample/rmcp"
+evidence = "https://pypi.org/pypi/rmcp/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "rowvoi"
+repository = "https://github.com/gojiplus/rowvoi"
+evidence = "https://pypi.org/pypi/rowvoi/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "savitr"
+repository = "https://github.com/in-rolls/savitr"
+evidence = "https://pypi.org/user/soodoku/"
+note = "Listed on soodoku PyPI profile; counted as maintained, not sole authorship."
+
+[[packages]]
+ecosystem = "pypi"
+name = "search-names"
+repository = "https://github.com/appeler/search-names"
+evidence = "https://pypi.org/pypi/search-names/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "setjoin"
+repository = "https://github.com/finite-sample/setjoin"
+evidence = "https://pypi.org/pypi/setjoin/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "slosizer"
+repository = "https://github.com/gojiplus/slosizer"
+evidence = "https://pypi.org/pypi/slosizer/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "softverse"
+repository = "https://github.com/recite/softverse"
+evidence = "https://pypi.org/pypi/softverse/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "stable-cart"
+repository = "https://github.com/finite-sample/stable-cart"
+evidence = "https://pypi.org/pypi/stable-cart/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "stagecoachml"
+repository = "https://github.com/finite-sample/stagecoachml"
+evidence = "https://pypi.org/pypi/stagecoachml/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "statqa"
+repository = "https://github.com/gojiplus/statqa"
+evidence = "https://pypi.org/pypi/statqa/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "streamcal"
+repository = "https://github.com/finite-sample/streamcal"
+evidence = "https://pypi.org/pypi/streamcal/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "uijudge-bench"
+repository = "https://github.com/gojiplus/uijudge-bench"
+evidence = "https://pypi.org/pypi/uijudge-bench/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "understudy"
+repository = "https://github.com/gojiplus/understudy"
+evidence = "https://pypi.org/pypi/understudy/json"
+
+[[packages]]
+ecosystem = "pypi"
+name = "winference"
+repository = "https://github.com/finite-sample/winference"
+evidence = "https://pypi.org/pypi/winference/json"
