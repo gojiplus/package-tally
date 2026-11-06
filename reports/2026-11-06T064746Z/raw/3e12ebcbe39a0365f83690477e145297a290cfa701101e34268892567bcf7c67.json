@@ -1,0 +1,9 @@
+{
+  "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/clarifai",
+  "fetched_at": "2026-11-06T06:47:55.107767+00:00",
+  "sha256": "6a5b80be203dcbf2e9667bf02d58e1b2475cdc58d04638d71feddf1140c157d4",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Fri, 06 Nov 2026 06:47:55 GMT",
+  "cache_age": null,
+  "body": "[{\"start\":\"2012-10-01\",\"end\":\"2026-11-04\",\"downloads\":46437,\"package\":\"clarifai\"}]"
+}

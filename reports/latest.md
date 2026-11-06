@@ -2,7 +2,7 @@
 
 **Total: 2,181,891 downloads** across 64/64 packages.
 
-Retrieved 2026-11-06T06:45:59.844284+00:00.
+Retrieved 2026-11-06T06:48:07.509969+00:00.
 
 Python uses Pepy's all-time counter (coverage dates unspecified; badges cached up to 12 hours). R uses the RStudio mirror from 2012-10-01 through the last complete day reported by CRAN logs. These are source counters with different coverage, not unique users or installations.
 

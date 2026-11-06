@@ -1,0 +1,9 @@
+{
+  "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/aws.alexa",
+  "fetched_at": "2026-11-06T06:47:52.442121+00:00",
+  "sha256": "94d6d9a564d53b6abc335cc9be1e01898fafe8ff6bdf5f74df0d8c0eecfb2c08",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Fri, 06 Nov 2026 06:47:52 GMT",
+  "cache_age": null,
+  "body": "[{\"start\":\"2012-10-01\",\"end\":\"2026-11-04\",\"downloads\":274246,\"package\":\"aws.alexa\"}]"
+}
