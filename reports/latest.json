@@ -1,21 +1,21 @@
 {
-  "started_at": "2026-11-06T06:47:49.822711+00:00",
-  "finished_at": "2026-11-06T06:48:07.509969+00:00",
+  "started_at": "2026-11-09T18:49:07.265352+00:00",
+  "finished_at": "2026-11-09T18:49:28.329123+00:00",
   "complete": true,
-  "total_downloads": 2181891,
-  "observed_downloads": 2181891,
+  "total_downloads": 2185140,
+  "observed_downloads": 2185140,
   "subtotals": {
     "pypi": {
-      "packages": 55,
-      "counted": 55,
+      "packages": 56,
+      "counted": 56,
       "complete": true,
-      "observed_downloads": 1511614
+      "observed_downloads": 1514043
     },
     "cran": {
       "packages": 9,
       "counted": 9,
       "complete": true,
-      "observed_downloads": 670277
+      "observed_downloads": 671097
     }
   },
   "packages": [
@@ -26,14 +26,14 @@
       "evidence": "https://cran.r-project.org/src/contrib/Archive/abbyyR/",
       "note": "Archived CRAN package; historical downloads included.",
       "source": "cranlogs",
-      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/abbyyR",
+      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-08/abbyyR",
       "coverage_start": "2012-10-01",
-      "coverage_end": "2026-11-04",
+      "coverage_end": "2026-11-08",
       "coverage": "RStudio CRAN mirror logs",
-      "downloads": 71834,
+      "downloads": 71861,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:51.617750+00:00",
-      "response_sha256": "e5861149df67ee7c78992f78400ae3ba1ad207a184f2741b1b5a9325f11bdcef"
+      "fetched_at": "2026-11-09T18:49:08.605133+00:00",
+      "response_sha256": "5aeb0390315043c8a3252e17045ac1f718e0a6abe7ede1eb027eb83785670f93"
     },
     {
       "ecosystem": "cran",
@@ -42,14 +42,14 @@
       "evidence": "https://cran.r-project.org/src/contrib/Archive/aws.alexa/",
       "note": "Archived CRAN package; historical downloads included.",
       "source": "cranlogs",
-      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/aws.alexa",
+      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-08/aws.alexa",
       "coverage_start": "2012-10-01",
-      "coverage_end": "2026-11-04",
+      "coverage_end": "2026-11-08",
       "coverage": "RStudio CRAN mirror logs",
-      "downloads": 274246,
+      "downloads": 274288,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:52.442121+00:00",
-      "response_sha256": "94d6d9a564d53b6abc335cc9be1e01898fafe8ff6bdf5f74df0d8c0eecfb2c08"
+      "fetched_at": "2026-11-09T18:49:09.372493+00:00",
+      "response_sha256": "6a647a6d36f9ca76da39742c60dd507db0fe159dc4a4e7cfb23e9c705b23395a"
     },
     {
       "ecosystem": "cran",
@@ -58,14 +58,14 @@
       "evidence": "https://cran.r-project.org/src/contrib/Archive/captr/",
       "note": "Archived CRAN package; historical downloads included.",
       "source": "cranlogs",
-      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/captr",
+      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-08/captr",
       "coverage_start": "2012-10-01",
-      "coverage_end": "2026-11-04",
+      "coverage_end": "2026-11-08",
       "coverage": "RStudio CRAN mirror logs",
-      "downloads": 45866,
+      "downloads": 45900,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:54.089045+00:00",
-      "response_sha256": "d38def34f1b68a77a2e2b95163209cb6639d532e306b858417ef6d61899e6f65"
+      "fetched_at": "2026-11-09T18:49:10.433449+00:00",
+      "response_sha256": "506b4b8f57b7865f0a7a1a2ab789f411181cf1a4f4fdcd0d261637d722ffa39e"
     },
     {
       "ecosystem": "cran",
@@ -74,14 +74,14 @@
       "evidence": "https://cran.r-project.org/src/contrib/Archive/clarifai/",
       "note": "Archived CRAN package; historical downloads included.",
       "source": "cranlogs",
-      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/clarifai",
+      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-08/clarifai",
       "coverage_start": "2012-10-01",
-      "coverage_end": "2026-11-04",
+      "coverage_end": "2026-11-08",
       "coverage": "RStudio CRAN mirror logs",
-      "downloads": 46437,
+      "downloads": 46478,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:55.107767+00:00",
-      "response_sha256": "6a5b80be203dcbf2e9667bf02d58e1b2475cdc58d04638d71feddf1140c157d4"
+      "fetched_at": "2026-11-09T18:49:11.549579+00:00",
+      "response_sha256": "44e7308a0d521cd7c4ea80b1ff32cbe428b7c6527efced43e9037b93c2423c53"
     },
     {
       "ecosystem": "cran",
@@ -90,14 +90,14 @@
       "evidence": "https://cran.r-project.org/web/packages/guess/index.html",
       "note": "",
       "source": "cranlogs",
-      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/guess",
+      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-08/guess",
       "coverage_start": "2012-10-01",
-      "coverage_end": "2026-11-04",
+      "coverage_end": "2026-11-08",
       "coverage": "RStudio CRAN mirror logs",
-      "downloads": 33897,
+      "downloads": 33973,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:55.343703+00:00",
-      "response_sha256": "ac935574ee917000a6f5c8880405ae5d74b8d347c197e2d4e7813c14885d4572"
+      "fetched_at": "2026-11-09T18:49:11.860596+00:00",
+      "response_sha256": "5b077c5ae4ec5a8d3470ce34069c91269da319514824501d8e6b555055a93ce8"
     },
     {
       "ecosystem": "cran",
@@ -106,14 +106,14 @@
       "evidence": "https://cran.r-project.org/web/packages/rdomains/index.html",
       "note": "",
       "source": "cranlogs",
-      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/rdomains",
+      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-08/rdomains",
       "coverage_start": "2012-10-01",
-      "coverage_end": "2026-11-04",
+      "coverage_end": "2026-11-08",
       "coverage": "RStudio CRAN mirror logs",
-      "downloads": 23630,
+      "downloads": 23767,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:56.768030+00:00",
-      "response_sha256": "dfa59b5bc1ad0ded4f81bb8b2cb2cff9c092d70841bd1e8145db49a009b5d8c2"
+      "fetched_at": "2026-11-09T18:49:12.803642+00:00",
+      "response_sha256": "057a12adc7fd1a03f41a4fcf1b519e6e608470098dff8a03734ac5e9f4f7d4f6"
     },
     {
       "ecosystem": "cran",
@@ -122,14 +122,14 @@
       "evidence": "https://cran.r-project.org/web/packages/tuber/index.html",
       "note": "",
       "source": "cranlogs",
-      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/tuber",
+      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-08/tuber",
       "coverage_start": "2012-10-01",
-      "coverage_end": "2026-11-04",
+      "coverage_end": "2026-11-08",
       "coverage": "RStudio CRAN mirror logs",
-      "downloads": 110959,
+      "downloads": 111183,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:57.337113+00:00",
-      "response_sha256": "ace9ae539767365da536bd54ad32349246db716c68627b39b95ff7341faf943c"
+      "fetched_at": "2026-11-09T18:49:13.985658+00:00",
+      "response_sha256": "25e5925d4f2b4a4ba650b32f5f54b55aaa39e4c84b5832242da0f5c5e748bd25"
     },
     {
       "ecosystem": "cran",
@@ -138,14 +138,14 @@
       "evidence": "https://cran.r-project.org/web/packages/tubern/index.html",
       "note": "",
       "source": "cranlogs",
-      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/tubern",
+      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-08/tubern",
       "coverage_start": "2012-10-01",
-      "coverage_end": "2026-11-04",
+      "coverage_end": "2026-11-08",
       "coverage": "RStudio CRAN mirror logs",
-      "downloads": 28785,
+      "downloads": 28888,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:57.499393+00:00",
-      "response_sha256": "4d5dc2fb8e367a34db69b1fdda74db9fec62b076991ad838f3384248875d589b"
+      "fetched_at": "2026-11-09T18:49:14.109219+00:00",
+      "response_sha256": "6bdf6b56b995e8b9b1aa76554c8a386bbd7febc7a1e0141ce1295b55239fdb8e"
     },
     {
       "ecosystem": "cran",
@@ -154,14 +154,14 @@
       "evidence": "https://cran.r-project.org/web/packages/virustotal/index.html",
       "note": "",
       "source": "cranlogs",
-      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-04/virustotal",
+      "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-08/virustotal",
       "coverage_start": "2012-10-01",
-      "coverage_end": "2026-11-04",
+      "coverage_end": "2026-11-08",
       "coverage": "RStudio CRAN mirror logs",
-      "downloads": 34623,
+      "downloads": 34759,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:58.809164+00:00",
-      "response_sha256": "2c5ba101db03ade7ce28ee7040c04d67bac65ad5cbae38bd808df27986f67176"
+      "fetched_at": "2026-11-09T18:49:14.742954+00:00",
+      "response_sha256": "a5bfb9f53c5a659497bb91c0abeded8149e951d35e0f7e5be615e677ca60da68"
     },
     {
       "ecosystem": "pypi",
@@ -174,10 +174,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 25858,
+      "downloads": 25888,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:59.090330+00:00",
-      "response_sha256": "daef83037b352ff116e6964bf6e792053099065a82d7d52c2df3d4f8d91b4ad6"
+      "fetched_at": "2026-11-09T18:49:14.996024+00:00",
+      "response_sha256": "0d7e88137c17903c3dd242d1d77875d8d076f5c697b0b7231c4bd2c8c7a264b0"
     },
     {
       "ecosystem": "pypi",
@@ -190,10 +190,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 3568,
+      "downloads": 3634,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:59.343544+00:00",
-      "response_sha256": "59f365e1f6ab1430507dd9ed6777ea40cf66e9241e38c2b4b7a8afdb341a0aa1"
+      "fetched_at": "2026-11-09T18:49:15.385016+00:00",
+      "response_sha256": "33f3e4fcb1ffdef758a693d131b5b94ba1584ce567fb3625d5cbf4c7cd82b3ab"
     },
     {
       "ecosystem": "pypi",
@@ -206,10 +206,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 3016,
+      "downloads": 3031,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:59.486659+00:00",
-      "response_sha256": "c02201c9d692f8fbdbbbfbf3763ab201e86494923da6d57e58f5949e37e3ceb7"
+      "fetched_at": "2026-11-09T18:49:15.821118+00:00",
+      "response_sha256": "67c2a32d2d12e30fed23899241284ce04344f10505833b7003a397ce9ddf68a2"
     },
     {
       "ecosystem": "pypi",
@@ -222,10 +222,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 43111,
+      "downloads": 43389,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:59.623400+00:00",
-      "response_sha256": "bc45d2cdb2fca00bc5d62c6ac7d535c66fef11d7580ef45699b0bb517b0911ac"
+      "fetched_at": "2026-11-09T18:49:16.060847+00:00",
+      "response_sha256": "70254b0893378ebb9850a9083c256c3e38e1449069867744e47e4d52e6df4143"
     },
     {
       "ecosystem": "pypi",
@@ -238,10 +238,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 737083,
+      "downloads": 737426,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:59.764795+00:00",
-      "response_sha256": "f62771f4c8023d77cbfd046c9e71aa2e7d35ae494345650fbe43ef64be15fa17"
+      "fetched_at": "2026-11-09T18:49:16.268146+00:00",
+      "response_sha256": "25ccf2012fa63dc5c2af7161f02c62dd68fd68cb33e8cba3fccfdfab4a6b2ccc"
     },
     {
       "ecosystem": "pypi",
@@ -254,10 +254,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 37996,
+      "downloads": 38162,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:47:59.905101+00:00",
-      "response_sha256": "2c3ef3f74c1a50e1ab4aec216df4c8d9ede67ccecfd633ed621398c77d0afcba"
+      "fetched_at": "2026-11-09T18:49:16.683648+00:00",
+      "response_sha256": "1649252aa91f6aee752d81fb498620bee8711df2cf734f87b858e259bad2dba0"
     },
     {
       "ecosystem": "pypi",
@@ -270,10 +270,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 3404,
+      "downloads": 3425,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:00.043464+00:00",
-      "response_sha256": "aedec5e0787a609d07cb999b417ff30fc95f14bdc3bb992eda5fee89e87b304f"
+      "fetched_at": "2026-11-09T18:49:17.081696+00:00",
+      "response_sha256": "f4589b620f56b492deae8752a531e2d8368a1dc069c0d345148fd8909779f055"
     },
     {
       "ecosystem": "pypi",
@@ -286,10 +286,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 6925,
+      "downloads": 6959,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:00.197073+00:00",
-      "response_sha256": "b8d75329ee83bc7b9feb1f5385167528713df56951cddc7587401ab005e13693"
+      "fetched_at": "2026-11-09T18:49:17.308818+00:00",
+      "response_sha256": "b9ea963beeb71510b2cbe7ee93f4e235e34a654e9fb0bafb9bbe4db6e9226a8f"
     },
     {
       "ecosystem": "pypi",
@@ -302,10 +302,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 744,
+      "downloads": 784,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:00.340354+00:00",
-      "response_sha256": "a7b108cfe9bb7c18b4064e0f7260cde6820e7b43478bc7b36f007ecaf78eac69"
+      "fetched_at": "2026-11-09T18:49:17.527672+00:00",
+      "response_sha256": "1ab2028b85ffb2c3879d72baf1d1be0d21d6918f127bd2c47e154b7c68ec3f92"
     },
     {
       "ecosystem": "pypi",
@@ -318,10 +318,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 24070,
+      "downloads": 24106,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:00.591878+00:00",
-      "response_sha256": "956b7db1499e58005326663bb719099e38fb6004f2eca8e7f35e9a0a4fbb931e"
+      "fetched_at": "2026-11-09T18:49:17.744764+00:00",
+      "response_sha256": "156984bdea3b6abc21414b1b9eae3e9282eb7c9f3fae1fcbd1cf880eb1c71610"
     },
     {
       "ecosystem": "pypi",
@@ -334,10 +334,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 616,
+      "downloads": 624,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:00.728802+00:00",
-      "response_sha256": "0a9ec05e89a20468ff834a6f83057d7d21f559b4bbef044a9cd04d5b851264e6"
+      "fetched_at": "2026-11-09T18:49:17.971755+00:00",
+      "response_sha256": "12d8badaf05e4ff302b94642db57a8317e55269bcbd5f7318221451e57cfd2b0"
     },
     {
       "ecosystem": "pypi",
@@ -350,10 +350,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 23773,
+      "downloads": 23786,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:00.984208+00:00",
-      "response_sha256": "b039aa6a3a771b649536b42bd2458484c05b9d57a20793aee8874ad74ee955c8"
+      "fetched_at": "2026-11-09T18:49:18.194579+00:00",
+      "response_sha256": "29988e9aecb4770ba24688c2062d7970f3c657f1d2a7d9dc04a662c816fc3e1a"
     },
     {
       "ecosystem": "pypi",
@@ -366,10 +366,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 2227,
+      "downloads": 2251,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:01.131867+00:00",
-      "response_sha256": "def6d63538476a44e804bc44c496f8370b1cdb66474ec874869f83a401a00cce"
+      "fetched_at": "2026-11-09T18:49:18.592724+00:00",
+      "response_sha256": "1188e5151445c0b675d74024e225b9137b8f793cffa14619394fabb16e6d6491"
     },
     {
       "ecosystem": "pypi",
@@ -382,10 +382,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 3709,
+      "downloads": 3716,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:01.262224+00:00",
-      "response_sha256": "5c19c9b31c4c3553cef626aa27e17149e9f005bb86f4a5f8038b23eb8e65d327"
+      "fetched_at": "2026-11-09T18:49:18.832224+00:00",
+      "response_sha256": "2a4e91838d6f539b7fa8c8d41f351f413ac2a25a2b20595097eb1335ea42c3d7"
     },
     {
       "ecosystem": "pypi",
@@ -398,10 +398,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 3990,
+      "downloads": 3994,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:01.403358+00:00",
-      "response_sha256": "9dbf89f2c6f2447c41150ccff47e9961f8590a2d6f7908854dd551d509f84ac0"
+      "fetched_at": "2026-11-09T18:49:19.074713+00:00",
+      "response_sha256": "416b4fe9be525d1028851741f9de9cdc41ecc2570180f03492f165a8ecad3579"
     },
     {
       "ecosystem": "pypi",
@@ -414,10 +414,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 11909,
+      "downloads": 11919,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:01.557474+00:00",
-      "response_sha256": "abe8c0a6d49401dfe80e6ff0e75863d426964ec53e9d20997762ec6126d3d39c"
+      "fetched_at": "2026-11-09T18:49:19.309512+00:00",
+      "response_sha256": "8339023fff8b5822944ab82d2283ed00e5f6a51b04ecc923294630e9687613d0"
     },
     {
       "ecosystem": "pypi",
@@ -430,10 +430,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 48879,
+      "downloads": 48939,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:01.809160+00:00",
-      "response_sha256": "a3383d3a0bc05859d99709757e846485d5c6b4bf5632549ca018819e350ff374"
+      "fetched_at": "2026-11-09T18:49:19.535825+00:00",
+      "response_sha256": "409364b1c15efc7d8f3b5256327fd8a4ac02a8e9737ec56420cc1684658a62be"
     },
     {
       "ecosystem": "pypi",
@@ -446,10 +446,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 21335,
+      "downloads": 21345,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:02.060987+00:00",
-      "response_sha256": "c23ea343033edf2a26cffff08b1fa1c4097d6c1b9a25c65e7ffe18c521eaa493"
+      "fetched_at": "2026-11-09T18:49:19.824303+00:00",
+      "response_sha256": "bb244ad2c4a34b8eaf2f8a2245b8ec4ad3f14d824ab788b44fced16aea00d706"
     },
     {
       "ecosystem": "pypi",
@@ -462,10 +462,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 36702,
+      "downloads": 36717,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:02.310894+00:00",
-      "response_sha256": "5626eb32bb4471db45aba1641aa5d694dd83addce3bf35b620569208f055c348"
+      "fetched_at": "2026-11-09T18:49:20.049781+00:00",
+      "response_sha256": "a45259f26e63ec5e69f68d327338ddec150b4be3a087aed44e10634971acaece"
     },
     {
       "ecosystem": "pypi",
@@ -478,10 +478,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 37493,
+      "downloads": 37544,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:02.450839+00:00",
-      "response_sha256": "74e5e277de352f965a50d2ea883e58060068b8e30dd1bfa2d81bee3584dbc047"
+      "fetched_at": "2026-11-09T18:49:20.266005+00:00",
+      "response_sha256": "4b5a3b262c2bed1fb155d4413e4ecbfed977969b710849a94c341be05d73bd1b"
     },
     {
       "ecosystem": "pypi",
@@ -494,10 +494,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 11294,
+      "downloads": 11330,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:02.582119+00:00",
-      "response_sha256": "010f101adbc7b4e7e414ff3b4a58a85886f9fb49cbe1c98063379aec50ed2213"
+      "fetched_at": "2026-11-09T18:49:20.527749+00:00",
+      "response_sha256": "1e278dad197e5470a25a0d4d30c3a95732d6cb7c45bc1123f221e5b253148951"
     },
     {
       "ecosystem": "pypi",
@@ -510,10 +510,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 22668,
+      "downloads": 22682,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:02.730891+00:00",
-      "response_sha256": "765d185919805eafbfaf2a3a196b77d67a3c5fa97d7d766b4765c0f03d909b3f"
+      "fetched_at": "2026-11-09T18:49:20.763322+00:00",
+      "response_sha256": "f3bea2e9fdcf70cc5a75c1c0d7c290a165f8103adda68b706e85c880a92a1100"
     },
     {
       "ecosystem": "pypi",
@@ -526,10 +526,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 7263,
+      "downloads": 7271,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:02.972776+00:00",
-      "response_sha256": "a7b80e603dd9061687a2f83420e571fc94c989f33edb70fed20ffe2bf1219494"
+      "fetched_at": "2026-11-09T18:49:20.986654+00:00",
+      "response_sha256": "df2c538a4c0c9dfaf5aa04d75a169a649bf90ca54dcca34b7b621d3f84bc08f3"
     },
     {
       "ecosystem": "pypi",
@@ -542,10 +542,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 34607,
+      "downloads": 34636,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:03.108322+00:00",
-      "response_sha256": "2d9aeb34d02de840bb3839e77a5937d130c62ab3945fbe68b9e0dfd60d1a4688"
+      "fetched_at": "2026-11-09T18:49:21.200815+00:00",
+      "response_sha256": "1ed0a1943c734aa225360d45df44a46cb52413dc4abf3c5d5c35dd820bd4be92"
     },
     {
       "ecosystem": "pypi",
@@ -558,10 +558,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 13370,
+      "downloads": 13383,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:03.239422+00:00",
-      "response_sha256": "b97e3786ad3558bcaa8ca3fa85e4d3d1c40605a714fab1b4af75bb3c64f356c9"
+      "fetched_at": "2026-11-09T18:49:21.445986+00:00",
+      "response_sha256": "2d2382e1da1d60597ce83e3104e5816a24a30a8376604bd3dc41c053b337c82e"
     },
     {
       "ecosystem": "pypi",
@@ -574,10 +574,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 6932,
+      "downloads": 6996,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:03.378886+00:00",
-      "response_sha256": "69c75e9e5ca63e45eb817dd2bee4e76a10bff6fe8fb05fa4a8e64239440017aa"
+      "fetched_at": "2026-11-09T18:49:21.664926+00:00",
+      "response_sha256": "40477d4c7d68e42c72e0f6b29ebb8f00edb2a0ff96884e1dc26d76f2862f7334"
     },
     {
       "ecosystem": "pypi",
@@ -590,10 +590,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 8932,
+      "downloads": 8951,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:03.510546+00:00",
-      "response_sha256": "6a218dbf08be0a62b5e7d983277418e5d56b13042bfee86dd00dcd139e0e8848"
+      "fetched_at": "2026-11-09T18:49:21.891603+00:00",
+      "response_sha256": "aabd8069597abe43ff9d9cad90bed13db8a6f31560a481fab185d07967985ebb"
     },
     {
       "ecosystem": "pypi",
@@ -606,10 +606,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 12759,
+      "downloads": 12776,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:03.641743+00:00",
-      "response_sha256": "944bf7b37955cc74c0ca992ca3e0938ba9c369e31cee3f863546baa8f33115ac"
+      "fetched_at": "2026-11-09T18:49:22.190271+00:00",
+      "response_sha256": "dca588ec3d69225362681c960185241b92f25e1793a7044487b71ec6be249ffa"
     },
     {
       "ecosystem": "pypi",
@@ -622,10 +622,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 2947,
+      "downloads": 2949,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:03.905052+00:00",
-      "response_sha256": "919b538459973c12d7ebe97fccc65e25692256979793c2a07616b02b019903e2"
+      "fetched_at": "2026-11-09T18:49:22.425431+00:00",
+      "response_sha256": "6242e13bc524202ba2ba0406d26a59aec3cd52cc68b7f98949602d5dc63a9dd6"
     },
     {
       "ecosystem": "pypi",
@@ -638,10 +638,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 14996,
+      "downloads": 15027,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:04.034575+00:00",
-      "response_sha256": "e821b224b79541eb1b895732b8a419c67980e2384ebfda161e2306f068d06e88"
+      "fetched_at": "2026-11-09T18:49:22.647300+00:00",
+      "response_sha256": "0e7a648455a8617023d525908242e8f9b5302f485dd79bbdc7be7337072090fc"
     },
     {
       "ecosystem": "pypi",
@@ -654,10 +654,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 54117,
+      "downloads": 54182,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:04.173181+00:00",
-      "response_sha256": "72078346149678297a4939ae5077e1da3f039cdb37049e30591039acbce83347"
+      "fetched_at": "2026-11-09T18:49:22.841161+00:00",
+      "response_sha256": "1b694af06c7ed5ba2b8ad2226653e301b6278c7e47a95b035e8dfbed01bf49d9"
     },
     {
       "ecosystem": "pypi",
@@ -670,10 +670,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 1728,
+      "downloads": 1749,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:04.325021+00:00",
-      "response_sha256": "1433c0a11e943eaee320a3dbebb723ce396a760de0caa6b226a70a6fd13736ad"
+      "fetched_at": "2026-11-09T18:49:23.072679+00:00",
+      "response_sha256": "7e5a2aac4963d46b7c54e45c4f6972f5821eeddd3e433ce4445bf06a8b5dc493"
     },
     {
       "ecosystem": "pypi",
@@ -686,10 +686,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 12993,
+      "downloads": 13007,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:04.457906+00:00",
-      "response_sha256": "8da856df23b15ac0f09b9695fed25221efdad75ebe712443474a7e5dbfb3536f"
+      "fetched_at": "2026-11-09T18:49:23.264689+00:00",
+      "response_sha256": "411bb6813e5334ace8e1653aba44a3480adcbc4b6cfd89a0058ec6f2dfb59ada"
     },
     {
       "ecosystem": "pypi",
@@ -702,10 +702,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 1734,
+      "downloads": 1740,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:04.595227+00:00",
-      "response_sha256": "901fa715e0a8ef2a3ce3db082a70f0ee9823604d322dc2d6f4421ce9595afc02"
+      "fetched_at": "2026-11-09T18:49:23.487590+00:00",
+      "response_sha256": "2da151a87037246a1e2929f4d931626fa4430e77cbd8ad5b2cde5a656bcd1ff5"
     },
     {
       "ecosystem": "pypi",
@@ -718,10 +718,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 12712,
+      "downloads": 12821,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:04.735472+00:00",
-      "response_sha256": "e92ed97cd7c0c45a4e27f5da081730b1785c48b554156053d04ddeec5f703905"
+      "fetched_at": "2026-11-09T18:49:23.746449+00:00",
+      "response_sha256": "c393ce8ab50f4859f50c6a1beaca3939f122008c67c86706af607e0cf8caca9c"
     },
     {
       "ecosystem": "pypi",
@@ -736,7 +736,7 @@
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
       "downloads": 17547,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:04.885765+00:00",
+      "fetched_at": "2026-11-09T18:49:23.970708+00:00",
       "response_sha256": "a078fa339200a6d3a0f2048aedbdcabf737c67169ca8ceba46ed764fb0445140"
     },
     {
@@ -750,10 +750,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 4545,
+      "downloads": 4550,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:05.024965+00:00",
-      "response_sha256": "5edd666ad282b9dc74a55402d73e0b8a592e7a97fa82d51b1162994471e3e2df"
+      "fetched_at": "2026-11-09T18:49:24.193883+00:00",
+      "response_sha256": "97a153ec8076b387c5085d13a56e173a71d920fd14476638c533684202b91581"
     },
     {
       "ecosystem": "pypi",
@@ -766,10 +766,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 121943,
+      "downloads": 122036,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:05.169999+00:00",
-      "response_sha256": "b47d3beb3be75b21ec99fd6a967d5a09c87bca23398def51a5d167964d6a647c"
+      "fetched_at": "2026-11-09T18:49:24.400849+00:00",
+      "response_sha256": "b25addc83d1904ae25f91af5f1f043f8e9970210785088c701cac63f76015570"
     },
     {
       "ecosystem": "pypi",
@@ -782,10 +782,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 7473,
+      "downloads": 7506,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:05.326485+00:00",
-      "response_sha256": "c1a42d53ac01e45cc09eade6d34f7eee2aaaf4e2c8a7e363d43b12a5e86b98dc"
+      "fetched_at": "2026-11-09T18:49:24.606579+00:00",
+      "response_sha256": "f565b18b3ec44ec31c38e10eee675f7aa82fa248292b3c58f1dfb0177bc7e1fa"
     },
     {
       "ecosystem": "pypi",
@@ -798,10 +798,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 2761,
+      "downloads": 2768,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:05.468360+00:00",
-      "response_sha256": "02196cb565dd3c6401b272359ca1abdad44e1ab2d77b8e4ba247f62a533d551b"
+      "fetched_at": "2026-11-09T18:49:24.839464+00:00",
+      "response_sha256": "52a3a15c51b46020dc14a53694aeb3178bb1703fa0403e406aae96f813c2358d"
     },
     {
       "ecosystem": "pypi",
@@ -814,10 +814,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 7868,
+      "downloads": 7895,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:05.604139+00:00",
-      "response_sha256": "e74c3a0d64a7ddc5ce9bfc6bd49683fcd49153d5fc5ba953705d31572b2d23d6"
+      "fetched_at": "2026-11-09T18:49:25.048962+00:00",
+      "response_sha256": "adfe3091b0bc481a3651e483167a9abc2fafc88935c042cd36e2424d81a780f2"
     },
     {
       "ecosystem": "pypi",
@@ -830,10 +830,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 21583,
+      "downloads": 21666,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:05.742698+00:00",
-      "response_sha256": "ca489833b8aba2c20c7d7e7205e9076581e748e412c25eb889f8afbea9c0225a"
+      "fetched_at": "2026-11-09T18:49:25.257141+00:00",
+      "response_sha256": "72500485000c08a4abb1f7f44e568c3e4ebb51f32036b48c5e3dc5ffde215422"
     },
     {
       "ecosystem": "pypi",
@@ -846,10 +846,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 1909,
+      "downloads": 1912,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:05.880512+00:00",
-      "response_sha256": "cc384355100b3e60e94bc3838e759d6983a0fd4c4a3572d8936fbd812d510d1e"
+      "fetched_at": "2026-11-09T18:49:25.495636+00:00",
+      "response_sha256": "e7f9e6936397bd48d86d3b73b7b7d58bc9c81ec23d64546fa8287c3207982931"
     },
     {
       "ecosystem": "pypi",
@@ -862,10 +862,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 1194,
+      "downloads": 1209,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:06.016175+00:00",
-      "response_sha256": "a4983b9fadbd108b983cc20f61d0962330e765d7c6df3a1a5aaa9d51562e523c"
+      "fetched_at": "2026-11-09T18:49:25.729158+00:00",
+      "response_sha256": "d82351c19ad3b2bba6376c2de208a04b8ea6badc44e682b98d1b4a76cdfb1e80"
     },
     {
       "ecosystem": "pypi",
@@ -878,10 +878,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 8244,
+      "downloads": 8251,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:06.156892+00:00",
-      "response_sha256": "8de3d75ca14448e59c9d5a2d6dc7ad82a219cf59013da9bd6bef4c1c6b2506f8"
+      "fetched_at": "2026-11-09T18:49:25.940830+00:00",
+      "response_sha256": "5994b6f5a4fe6e8a6836a45c32df48b9f7a1b726fc2747818b109e536ac35741"
     },
     {
       "ecosystem": "pypi",
@@ -894,10 +894,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 839,
+      "downloads": 842,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:06.288192+00:00",
-      "response_sha256": "f76d54d6a71d93ab66e23080a69a3e51f4bf22d9454067e373c784f78c34c2da"
+      "fetched_at": "2026-11-09T18:49:26.158337+00:00",
+      "response_sha256": "c25322951030366c1abbaa9d7bb73a59d1c06adf4830bfcf26b55959e7d55fd3"
     },
     {
       "ecosystem": "pypi",
@@ -910,10 +910,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 2346,
+      "downloads": 2356,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:06.427975+00:00",
-      "response_sha256": "00ecdab8977c8728bf9de9f483419c898376a034d6657f673f960bfad8d0175b"
+      "fetched_at": "2026-11-09T18:49:26.383179+00:00",
+      "response_sha256": "ef286935b1389bfd40189ba68d11fdfe6437fe0584eb244f1ac6ef0f5f8d6952"
     },
     {
       "ecosystem": "pypi",
@@ -926,10 +926,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 1048,
+      "downloads": 1051,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:06.557871+00:00",
-      "response_sha256": "692c04abd11ef26a2ebce584c9285ed6c943f424c5d87a14b1dd74d7f16aacbc"
+      "fetched_at": "2026-11-09T18:49:26.593617+00:00",
+      "response_sha256": "383c46042576792c18a4f60341e52929910c7edf7b135a207e1a76435b5b8c58"
     },
     {
       "ecosystem": "pypi",
@@ -942,10 +942,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 4841,
+      "downloads": 4857,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:06.696790+00:00",
-      "response_sha256": "ba510678b566bb0fe4941fdd86bcf0f3af8aaaa8093ad12778b67d65647444d1"
+      "fetched_at": "2026-11-09T18:49:26.817596+00:00",
+      "response_sha256": "176cb632d49b6a583976389488225de3437a90ceed5bbf7b497f5658542d3d27"
     },
     {
       "ecosystem": "pypi",
@@ -958,10 +958,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 2894,
+      "downloads": 2933,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:06.832582+00:00",
-      "response_sha256": "c920446f4be313b5a1de8802f8038e9af5357550c6d2e75812c784928d456445"
+      "fetched_at": "2026-11-09T18:49:27.039215+00:00",
+      "response_sha256": "3bec7ba8dc4b0c7391e969957633f7eb120aa62806481e21b98a35b7b1e6dd03"
     },
     {
       "ecosystem": "pypi",
@@ -974,10 +974,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 2470,
+      "downloads": 2475,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:06.969961+00:00",
-      "response_sha256": "b5db50a603e808c07941fc34cae6dd0af62aade7db9794dcd9f8303f1dbf9949"
+      "fetched_at": "2026-11-09T18:49:27.261839+00:00",
+      "response_sha256": "36a843d689cc7eab1cfbd47c8c915ae1a5e543b71bfd87e011825d3c947165f5"
     },
     {
       "ecosystem": "pypi",
@@ -990,10 +990,26 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 1318,
+      "downloads": 1326,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:07.115631+00:00",
-      "response_sha256": "6509807a5b3d4fcc1d70fdb08e3e7f38ec4252ec52ce59243d5e42f0750ac445"
+      "fetched_at": "2026-11-09T18:49:27.461491+00:00",
+      "response_sha256": "8a0e489b06913231082d39d0a0451fbf769c11a8824c25863178c9ca7a40de13"
+    },
+    {
+      "ecosystem": "pypi",
+      "name": "tf-inference",
+      "repository": "https://github.com/finite-sample/tf-inference",
+      "evidence": "https://pypi.org/pypi/tf-inference/json",
+      "note": "Discovered via PyPI accounts: soodoku; maintained by soodoku.",
+      "source": "pepy",
+      "url": "https://api.pepy.tech/personalized-badge/tf-inference?period=TOTAL&units=NONE&left_text=downloads",
+      "coverage_start": null,
+      "coverage_end": null,
+      "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
+      "downloads": 356,
+      "status": "ok",
+      "fetched_at": "2026-11-09T18:49:27.687937+00:00",
+      "response_sha256": "635573a59fbffb29facca40608f13361fac933a219fcf389533d26f694c094c6"
     },
     {
       "ecosystem": "pypi",
@@ -1006,10 +1022,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 1129,
+      "downloads": 1144,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:07.254029+00:00",
-      "response_sha256": "60eee4cce105faafa3d46434de72db03ec971d27d37aa5e7cd08ee9556b04104"
+      "fetched_at": "2026-11-09T18:49:27.912891+00:00",
+      "response_sha256": "94b8e6a7fda5840f6ff176a30be845372d20ff0803a1748b0cadcf5e44551c0f"
     },
     {
       "ecosystem": "pypi",
@@ -1022,10 +1038,10 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 3291,
+      "downloads": 3301,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:07.385935+00:00",
-      "response_sha256": "1d6b2f4d4515210ff5036eb70f7bd314ab559860a2326de14b0446edd4dc2dbf"
+      "fetched_at": "2026-11-09T18:49:28.137733+00:00",
+      "response_sha256": "67e80508e208d5b49b53eba01a5a7e5268e2369bf9f7271c57d5296588b02c4c"
     },
     {
       "ecosystem": "pypi",
@@ -1038,15 +1054,23 @@
       "coverage_start": null,
       "coverage_end": null,
       "coverage": "Pepy all-time total; exact coverage dates not supplied; badge may be cached for 12 hours",
-      "downloads": 911,
+      "downloads": 923,
       "status": "ok",
-      "fetched_at": "2026-11-06T06:48:07.509603+00:00",
-      "response_sha256": "9a42a8cefcb819df82b9362580e49556a65747be144c6e513899fc85e00295d2"
+      "fetched_at": "2026-11-09T18:49:28.328700+00:00",
+      "response_sha256": "a8cef099f63e284d3007c13f3a1fbbb292ae9600a18585308514537c74b17e76"
     }
   ],
   "discovery": {
     "complete": true,
-    "added": [],
+    "added": [
+      {
+        "ecosystem": "pypi",
+        "name": "tf-inference",
+        "repository": "https://github.com/finite-sample/tf-inference",
+        "evidence": "https://pypi.org/pypi/tf-inference/json",
+        "note": "Discovered via PyPI accounts: soodoku; maintained by soodoku."
+      }
+    ],
     "rejected": [
       {
         "ecosystem": "pypi",
@@ -1085,5 +1109,5 @@
       "rajashekar"
     ]
   },
-  "manifest_sha256": "6ca11ef8e3327cffa2a0145d26ae927e37b11b2249b16f30636525521e51a216"
+  "manifest_sha256": "ffacdca79a6e3b4008f8e1093becfc333ab83d0b3b6697c1fde9ab22cf947a66"
 }

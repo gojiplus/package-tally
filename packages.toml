@@ -375,6 +375,13 @@ evidence = "https://pypi.org/pypi/streamcal/json"
 
 [[packages]]
 ecosystem = "pypi"
+name = "tf-inference"
+repository = "https://github.com/finite-sample/tf-inference"
+evidence = "https://pypi.org/pypi/tf-inference/json"
+note = "Discovered via PyPI accounts: soodoku; maintained by soodoku."
+
+[[packages]]
+ecosystem = "pypi"
 name = "uijudge-bench"
 repository = "https://github.com/gojiplus/uijudge-bench"
 evidence = "https://pypi.org/pypi/uijudge-bench/json"
