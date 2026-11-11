@@ -15,6 +15,17 @@ from package_tally.core import Client, FetchError, collect, load_packages
 from package_tally.discovery import discover, manifest_text, read_config
 
 
+def compact(value: int) -> str:
+    """Two or three leading digits, truncated so the badge never overstates."""
+    for size, suffix in ((10**9, "B"), (10**6, "M"), (10**3, "K")):
+        if value >= size:
+            whole, rest = divmod(value, size)
+            if whole >= 10:
+                return f"{whole}{suffix}"
+            return f"{whole}.{rest * 10 // size}{suffix}"
+    return str(value)
+
+
 def publish(report: dict, snapshot: Path, reports: Path) -> None:
     if not report["complete"] or not report["discovery"]["complete"]:
         raise ValueError("Cannot publish an incomplete tally")
@@ -24,7 +35,7 @@ def publish(report: dict, snapshot: Path, reports: Path) -> None:
     badge = {
         "schemaVersion": 1,
         "label": "package downloads",
-        "message": f"{report['total_downloads']:,}",
+        "message": compact(report["total_downloads"]),
         "color": "2E7D32",
     }
     (reports / "badge.json").write_text(

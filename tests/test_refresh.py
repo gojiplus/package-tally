@@ -224,9 +224,7 @@ def test_refresh_only_publishes_complete_runs(tmp_path, monkeypatch, failure):
         assert (reports / "latest.json").read_text() == "previous report"
         assert manifest.read_bytes() == original
     else:
-        assert (
-            json.loads((reports / "badge.json").read_text())["message"] == "1,234,567"
-        )
+        assert json.loads((reports / "badge.json").read_text())["message"] == "1.2M"
         assert len(load_packages(manifest)) == 2
         latest = json.loads((reports / "latest.json").read_text())
         assert (
@@ -253,3 +251,22 @@ def test_post_requests_have_distinct_snapshots(tmp_path):
     assert len(list(tmp_path.glob("*.json"))) == 2
     assert requests[0].get_method() == "POST"
     assert requests[0].get_header("Content-type") == "text/xml"
+
+
+@pytest.mark.parametrize(
+    "value, text",
+    [
+        (0, "0"),
+        (999, "999"),
+        (1_000, "1.0K"),
+        (9_999, "9.9K"),
+        (121_372, "121K"),
+        (999_999, "999K"),
+        (2_185_140, "2.1M"),
+        (2_199_999, "2.1M"),
+        (12_345_678, "12M"),
+        (3_400_000_000, "3.4B"),
+    ],
+)
+def test_badge_value_is_truncated_never_rounded_up(value, text):
+    assert refresh.compact(value) == text
