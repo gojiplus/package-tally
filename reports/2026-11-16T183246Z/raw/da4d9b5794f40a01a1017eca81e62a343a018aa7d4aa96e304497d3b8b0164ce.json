@@ -1,0 +1,9 @@
+{
+  "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-15/rdomains",
+  "fetched_at": "2026-11-16T18:32:59.578689+00:00",
+  "sha256": "50a8e4db9fa2adcf395321a352ffa0120d15623487e785142cd77934302a3fa8",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Mon, 16 Nov 2026 18:32:59 GMT",
+  "cache_age": null,
+  "body": "[{\"start\":\"2012-10-01\",\"end\":\"2026-11-15\",\"downloads\":23940,\"package\":\"rdomains\"}]"
+}

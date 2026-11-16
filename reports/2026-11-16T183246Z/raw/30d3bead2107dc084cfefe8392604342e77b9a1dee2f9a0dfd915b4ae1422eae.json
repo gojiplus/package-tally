@@ -1,0 +1,9 @@
+{
+  "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-15/abbyyR",
+  "fetched_at": "2026-11-16T18:32:52.076921+00:00",
+  "sha256": "563d6ba5985f370455274246872d042934d170f5b1f19c686c3b2629e5391ef2",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Mon, 16 Nov 2026 18:32:51 GMT",
+  "cache_age": null,
+  "body": "[{\"start\":\"2012-10-01\",\"end\":\"2026-11-15\",\"downloads\":71919,\"package\":\"abbyyR\"}]"
+}

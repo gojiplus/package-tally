@@ -1,0 +1,9 @@
+{
+  "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-15/tuber",
+  "fetched_at": "2026-11-16T18:33:02.253390+00:00",
+  "sha256": "907faada246081bf345d310ddb0910fec2bbf560fb30c4cff1f1f9952e46f9a6",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Mon, 16 Nov 2026 18:33:02 GMT",
+  "cache_age": null,
+  "body": "[{\"start\":\"2012-10-01\",\"end\":\"2026-11-15\",\"downloads\":111534,\"package\":\"tuber\"}]"
+}

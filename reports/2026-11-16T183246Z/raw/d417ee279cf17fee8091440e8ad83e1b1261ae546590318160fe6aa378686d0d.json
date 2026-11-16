@@ -1,0 +1,9 @@
+{
+  "url": "https://cranlogs.r-pkg.org/downloads/total/2012-10-01:2026-11-15/virustotal",
+  "fetched_at": "2026-11-16T18:33:05.194711+00:00",
+  "sha256": "076a8a5aca56fce278d4eeee14d16093f0e9e35d7043622ee9fcd962b7634d2c",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Mon, 16 Nov 2026 18:33:05 GMT",
+  "cache_age": null,
+  "body": "[{\"start\":\"2012-10-01\",\"end\":\"2026-11-15\",\"downloads\":34977,\"package\":\"virustotal\"}]"
+}
