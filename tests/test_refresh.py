@@ -20,7 +20,7 @@ from package_tally.discovery import (
 
 CONFIG = {
     "author": "Gaurav Sood",
-    "emails": ["contact@gsood.com"],
+    "emails": ["contact@example.org"],
     "pypi_owner": "soodoku",
     "pypi_collaborators": ["collaborator"],
 }
@@ -73,7 +73,7 @@ class DiscoveryClient:
         assert name != "old"
         info = {"name": name, "author": "Someone Else", "project_urls": {}}
         if name == "coauthored":
-            info["author_email"] = "Gaurav Sood <contact@gsood.com>"
+            info["author_email"] = "Gaurav Sood <contact@example.org>"
         return {"body": json.dumps({"info": info})}
 
 
@@ -110,9 +110,9 @@ def test_manifest_round_trip(tmp_path):
     "text,expected",
     [
         ("Gaurav   SOOD [aut]", True),
-        ("Name <contact@gsood.com>", True),
+        ("Name <contact@example.org>", True),
         ("Gaurav Soodish", False),
-        ("notcontact@gsood.com", False),
+        ("notcontact@example.org", False),
         ("Another Sood", False),
     ],
 )
