@@ -1,0 +1,9 @@
+{
+  "url": "https://cranlogs.r-pkg.org/downloads/total/last-day",
+  "fetched_at": "2026-11-23T20:14:11.349128+00:00",
+  "sha256": "fb624d134404b4dddf9392cf7ca822145ec7176393ff0d91dc13b5c6ec76cd16",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Mon, 23 Nov 2026 20:14:11 GMT",
+  "cache_age": null,
+  "body": "[{\"start\":\"2026-11-22\",\"end\":\"2026-11-22\",\"downloads\":4658139}]"
+}
